@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Koki25ch/portfolio.git/static/css/main.21843635.css",
+    "main.js": "/Koki25ch/portfolio.git/static/js/main.de600792.js",
+    "static/media/ecommerce.png": "/Koki25ch/portfolio.git/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/resume.pdf": "/Koki25ch/portfolio.git/static/media/resume.944ae2c2747f86318de8.pdf",
+    "static/media/sidebar.png": "/Koki25ch/portfolio.git/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/musicapp.png": "/Koki25ch/portfolio.git/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/chris.png": "/Koki25ch/portfolio.git/static/media/chris.9896211a64cf9e3a116e.png",
+    "static/media/glassesimoji.png": "/Koki25ch/portfolio.git/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "index.html": "/Koki25ch/portfolio.git/index.html",
+    "static/media/hoc.png": "/Koki25ch/portfolio.git/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/thumbup.png": "/Koki25ch/portfolio.git/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Koki25ch/portfolio.git/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Koki25ch/portfolio.git/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Koki25ch/portfolio.git/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Koki25ch/portfolio.git/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Koki25ch/portfolio.git/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Koki25ch/portfolio.git/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "main.21843635.css.map": "/Koki25ch/portfolio.git/static/css/main.21843635.css.map",
+    "main.de600792.js.map": "/Koki25ch/portfolio.git/static/js/main.de600792.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21843635.css",
+    "static/js/main.de600792.js"
+  ]
+}
